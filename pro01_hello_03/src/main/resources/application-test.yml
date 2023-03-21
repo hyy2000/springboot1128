@@ -1,0 +1,7 @@
+test:
+  jdbc:
+    datasource:
+      driver-class-name: test
+      password: test
+      url: test
+      username: test

@@ -1,0 +1,15 @@
+city:
+  - beijing
+  - xian
+  - chengdu
+  - shenzhen
+  - shanghai
+
+hobbies: [game,program,sleep,eat]
+
+emp:
+  eName: tom
+  eAge: 19
+  eSex: 男
+  eSalary: 8050.90
+  isLeader: flase

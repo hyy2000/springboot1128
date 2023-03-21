@@ -1,0 +1,8 @@
+spring9:
+  jdbc:
+    datasource:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql:///springboot?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai
+      password: root
+      username: root
+#      type: druid

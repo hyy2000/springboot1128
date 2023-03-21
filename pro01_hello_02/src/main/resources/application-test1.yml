@@ -1,0 +1,7 @@
+spring2:
+  jdbc:
+    datasource:
+      username: test11
+      url: test11
+      password: test11
+      driver-class-name: test11

@@ -1,0 +1,10 @@
+spring1:
+  jdbc:
+    datasource:
+      driver-class-name: dev
+      password: dev
+      url: dev
+      username: dev
+server:
+  port: 8080
+

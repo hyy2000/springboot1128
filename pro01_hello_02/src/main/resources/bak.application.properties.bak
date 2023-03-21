@@ -1,0 +1,5 @@
+server.port=8081
+spring1.jdbc.datasource.driverClassName=com.mysql.cj.jdbc.Driver
+spring1.jdbc.datasource.url=jdbc:mysql://localhost:3306
+spring1.jdbc.datasource.username=root
+spring1.jdbc.datasource.password=root
